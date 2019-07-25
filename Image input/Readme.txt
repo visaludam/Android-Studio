@@ -1,0 +1,1 @@
+AndroidManifest is in app -> manifest -> AndroidManifest.xml 
